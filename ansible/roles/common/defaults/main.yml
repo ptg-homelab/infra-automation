@@ -1,6 +1,6 @@
 ---
 common_user: debian
-common_timezone: "Asia/Singapore"
+common_timezone: "America/New_York"
 common_keyring_dir: "/etc/apt/keyrings"
 common_nfs_dir: "/mnt/storage"
 common_packages:
